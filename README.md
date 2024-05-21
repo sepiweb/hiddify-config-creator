@@ -1,3 +1,3 @@
 # hiddify-config-creator
 
-bash <(curl -fsSL https://github.com/sepiweb/hiddify-config-creator/blob/main/sepiweb.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/sepiweb/hiddify-config-creator/main/sepiweb.sh)
